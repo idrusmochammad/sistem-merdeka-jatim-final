@@ -3,9 +3,5 @@
 @tailwind utilities;
 
 :root {
---merah: #c8102e; /* Merah bendera */
-}
-
-body {
-@apply bg-slate-50 text-slate-800 antialiased;
+--merah: #c8102e;
 }
